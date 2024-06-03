@@ -18,7 +18,7 @@ To get started with using or contributing to the AI-Characters repository, follo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/AI-Characters.git
+    git clone https://github.com/WinkoErades/AI-Characters
     ```
 
 2. **Navigate to the repository directory**:
@@ -46,17 +46,8 @@ Each character is housed in its own directory, containing:
 - Example scripts.
 
 ## Usage
-
 To use an AI character in your project, follow the instructions in the character's README file. Typically, you will need to:
-
 1. **Import the character module**.
 2. **Initialize the character with any necessary parameters**.
 3. **Call the character's methods to interact**.
 
-Example:
-```python
-from characters.alice import Alice
-
-alice = Alice()
-response = alice.get_response("Hello, Alice!")
-print(response)
