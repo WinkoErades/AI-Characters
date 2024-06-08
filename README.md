@@ -39,6 +39,7 @@ To get started with using or contributing to the AI-Characters repository, follo
 Here are some of the AI characters included in this repository:
 
 1. **Alex** - A friendly and knowledgeable roller skate technician. If you have questions about your roller skates, Alex knows all the ins and outs and is here to guide you.
+2. **Hypnos** - The best and friendliest mattress specialist in the world ;-).
 
 Each character is housed in its own directory, containing:
 - A README with character-specific details.
