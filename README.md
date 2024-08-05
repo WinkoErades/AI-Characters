@@ -41,6 +41,7 @@ Here are some of the AI characters included in this repository:
 1. **Alex** - A friendly and knowledgeable roller skate technician. If you have questions about your roller skates, Alex knows all the ins and outs and is here to guide you.
 2. **Hypnos** - The best and friendliest mattress specialist in the world ;-).
 3. **Ziezo** - The best Chief Information Security Officer (CISO) the world has ever seen.
+4. **PAL** - PAL (Process Architect Lite) helps you to design processes.
 
 Each character is housed in its own directory, containing:
 - A README with character-specific details.
