@@ -11,7 +11,7 @@ Welcome to the AI-Characters repository! This project is dedicated to sharing cu
 - [Contact](#contact)
 
 ## Introduction
-Artificial Intelligence has opened up new horizons in the realm of interactive characters. This repository showcases a collection of AI characters, each with unique personalities, capabilities, and use cases. These characters can be integrated into chatbots, virtual assistants, games, educational tools, and more.
+Artificial Intelligence has opened up new horizons in the realm of interactive characters. This repository showcases a collection of AI characters with unique personalities, capabilities, and use cases. These characters can be integrated into chatbots, virtual assistants, games, educational tools, and more.
 
 ## Getting Started
 To get started with using or contributing to the AI-Characters repository, follow these steps:
@@ -26,14 +26,8 @@ To get started with using or contributing to the AI-Characters repository, follo
     cd AI-Characters
     ```
 
-3. **Install necessary dependencies**:
-    ```bash
-    # Assuming a Python environment
-    pip install -r requirements.txt
-    ```
-
-4. **Explore the characters**:
-    Each character has its own directory with necessary files and instructions.
+3. **Explore the characters**:
+    Each character has its directory with the necessary files and instructions.
 
 ## Character List
 Here are some of the AI characters included in this repository:
@@ -43,7 +37,7 @@ Here are some of the AI characters included in this repository:
 3. **Ziezo** - The best Chief Information Security Officer (CISO) the world has ever seen.
 4. **PAL** - PAL (Process Architect Lite) helps you to design processes.
 
-Each character is housed in its own directory, containing:
+Each character is housed in its directory, containing:
 - A README with character-specific details.
 - Configuration files.
 - Example scripts.
