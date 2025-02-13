@@ -44,7 +44,7 @@ Each character is housed in its directory, containing:
 
 ## Usage
 To use an AI character in your project, follow the instructions in the character's README file. Typically, you will need to:
-1. **Import the character module**.
+1. **Import the character module** (if you're using Ollama on Linux, check the Ollama folder ;-).
 2. **Initialize the character with any necessary parameters**.
 3. **Call the character's methods to interact**.
 
