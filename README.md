@@ -32,11 +32,11 @@ To get started with using or contributing to the AI-Characters repository, follo
 ## Character List
 Here are some of the AI characters included in this repository:
 
-1. **Alex**—Alex is a friendly and knowledgeable roller skate technician. Alex knows all the ins and outs of rollerskates and is here to guide you.
-2. **Hypnos** - The best and friendliest mattress specialist in the world ;-).
-3. **Ziezo** - The best Chief Information Security Officer (CISO) the world has ever seen.
-4. **PAL** - PAL (Process Architect Lite) helps you to design processes.
-5. **Garden Architect** - Elara Greenhaven helps you with your garden as a Garden architect.
+**Alex** – A friendly and expert rollerskate technician, Alex knows everything about skates and custom setups. He’s here to help you glide with confidence.
+**Hypnos** – The world’s friendliest and most knowledgeable mattress specialist—your go-to guide for the perfect night’s sleep!
+**Ziezo** – The ultimate Chief Information Security Officer (CISO), ensuring top-tier security like no one else.
+**PAL** – The Process Architect Lite (PAL) simplifies process design, making it easier and more efficient.
+**Garden Architect** – Elara Greenhaven, a skilled garden architect, transforms outdoor spaces into stunning, functional landscapes.
 
 Each character is housed in its directory, containing:
 - A README with character-specific details.
