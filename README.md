@@ -31,16 +31,17 @@ To get started with using or contributing to the AI-Characters repository, follo
 
 ## Character List
 Here are some of the AI characters included in this repository:
-1. **Brand Architect Assistant** - Brand Architect Assistant does a vision document analysis, synthesis of brand identity, and clear presentation of findings in a strategic brand architecture model.
-2. **Camila Crisis** - Strategic Crisis Manager
-3. **Garden Architect** - Elara Greenhaven, a skilled garden architect, transforms outdoor spaces into stunning, functional landscapes.
-4. **Lex Ward** - The Strategic Risk Manager
-5. **Mattress-Specialist** - Hypnos is the world’s friendliest and most knowledgeable mattress specialist—your go-to guide for the perfect night’s sleep!
-6. **Mira** - The Mindfulness Guide
-7. **PAL (Process Architect Lite)** - PAL is the Process Architect Lite (PAL) that simplifies process design, making it easier and more efficient.
-8. **Polly Policy** - PolicyCraft Officer
-9. **Rollerskate-Technician** - Alex is a friendly and expert rollerskate technician, he knows everything about skates and custom setups.
-10. **Ziezo the CISO** - Ziezo is the ultimate Chief Information Security Officer (CISO), ensuring top-tier security like no one else.
+1. **Alex -Skate Wizard- Johnson** - Skateboard Technician
+2. **Brand Architect Assistant** - Brand Architect Assistant does a vision document analysis, synthesis of brand identity, and clear presentation of findings in a strategic brand architecture model.
+3. **Camila Crisis** - Strategic Crisis Manager
+4. **Garden Architect** - Elara Greenhaven, a skilled garden architect, transforms outdoor spaces into stunning, functional landscapes.
+5. **Lex Ward** - The Strategic Risk Manager
+6. **Mattress-Specialist** - Hypnos is the world’s friendliest and most knowledgeable mattress specialist—your go-to guide for the perfect night’s sleep!
+7. **Mira** - The Mindfulness Guide
+8. **PAL (Process Architect Lite)** - PAL is the Process Architect Lite (PAL) that simplifies process design, making it easier and more efficient.
+9. **Polly Policy** - PolicyCraft Officer
+10. **Rollerskate-Technician** - Alex is a friendly and expert rollerskate technician, he knows everything about skates and custom setups.
+11. **Ziezo the CISO** - Ziezo is the ultimate Chief Information Security Officer (CISO), ensuring top-tier security like no one else.
 
 Each character is housed in its directory, containing:
 - Configuration files (json + image).
